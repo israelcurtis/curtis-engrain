@@ -180,7 +180,7 @@ class Curtis_Engrain_Admin {
 		add_meta_box(
 			'unit-meta',
 			'UNIT #'.$post->post_title,
-			array( $this, 'unit_meta_box_content')
+			array( $this, 'unit_meta_box_content' )
 		);
 	}
 	
