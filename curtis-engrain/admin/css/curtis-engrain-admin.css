@@ -1,0 +1,12 @@
+/* styling the admin settings page */
+ .unit-metadata span {
+     font-weight: 700;
+ }
+ #response {
+     font-family: monospace;
+ }
+ #api-fetch {
+     font-size: 1.6em;
+     line-height: 1;
+     padding: 0px 30px;
+ }
