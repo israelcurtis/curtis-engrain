@@ -8,13 +8,9 @@ A simple plugin to demonstrate my skills as your next Senior Backend Developer!
  
  ## Installation
  
- 1. Upload `curtis-engrain.php` to the `/wp-content/plugins/` directory
+ 1. Upload the folder `curtis-engrain` to the `/wp-content/plugins/` directory
  2. Activate the plugin through the 'Plugins' menu in WordPress
  3. Visit the Curtis Engrain settings page to begin the API import
- 
- ## WordPress.org Preparation
- 
- The original launch of this version of the boilerplate included the folder structure needed for using your plugin on WordPress.org. That folder structure has been moved to its own repo here: https://github.com/DevinVinson/Plugin-Directory-Boilerplate
  
  ## Frequently Asked Questions
  
